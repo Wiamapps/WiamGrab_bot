@@ -1,0 +1,1 @@
+worker: python3 video_bot.py
